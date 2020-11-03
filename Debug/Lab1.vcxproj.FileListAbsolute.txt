@@ -1,2 +1,0 @@
-\\Mac\Home\Desktop\Lab1\Debug\Lab1.exe
-\\Mac\Home\Desktop\Lab1\Debug\Lab1.pdb
